@@ -1,1 +1,1 @@
-![Banner](_.jpeg)
+![Banner](banner.gif)
