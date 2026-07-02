@@ -1,1 +1,1 @@
-![Banner](banner.gif)
+[![Banner](banner.gif)](https://portfolio.mightbeloren.me)
